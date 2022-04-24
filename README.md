@@ -21,66 +21,8 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 5. The average fare per driver for each city type is calculated. 
 6. A PyBer summary DataFrame is created.
 7. The PyBer summary DataFrame is formatted as shown in the example.
- 
-### Results with detail analysis:
 
-**1. The total number of rides for each city type is retrieved.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**2. The total number of drivers for each city type is retrieved.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**3. The sum of the fares for each city type is retrieved.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**4. The average fare per ride for each city type is calculated.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**5. The average fare per driver for each city type is calculated.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**6. A PyBer summary DataFrame is created.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**7. The PyBer summary DataFrame is formatted as shown in the example.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-
+[`Deleveriable 1 Results`](https://github.com/DataJew/PyBer_Analysis/blob/master/PyBer_Challenge.ipynb). 
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 ### Deliverable Requirements:
@@ -91,50 +33,7 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 4. A DataFrame was created using the `resample()` function in weekly bins and shows the sum of the fares for each week.
 5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder. 
 
-
-### Results with detail analysis:
-
-**1. A DataFrame was created using the `groupby()` function on the "type" and "date" columns, and the `sum()` method is applied on the "fare" column to show the total fare amount for each date and time.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**2. A DataFrame was created using the `pivot()` function where the index is the "date," the columns are the city "type," and the values are the "fare."**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**3. A DataFrame was created using the `loc` method on the date range: 2019-01-01 through 2019-04-29.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**4. A DataFrame was created using the `resample()` function in weekly bins and shows the sum of the fares for each week.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-**5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder.**
-
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-**Code and Image**
-
-
-
-
+[`Deleveriable 2 Results`](https://github.com/DataJew/PyBer_Analysis/blob/master/PyBer_Challenge.ipynb). 
 
 ## Deliverable 3: A written report for the PyBer Analysis
 ### The analysis should contain the following:

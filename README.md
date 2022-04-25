@@ -52,6 +52,7 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
     > * The Urban fares start with an average of $1,800 with a consistent increase around 2,300. 
     
     > The PyBer summary DataFrame, 
+    
      ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PyBerSummarydf.png) 
    
 

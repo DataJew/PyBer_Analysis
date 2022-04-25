@@ -22,7 +22,7 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 6. A PyBer summary DataFrame is created.
 7. The PyBer summary DataFrame is formatted as shown in the example.
 
-[`Deleveriable 1 Results`](https://github.com/DataJew/PyBer_Analysis/blob/master/PyBer_Challenge.ipynb). 
+[`Deleveriable 1 Results`](https://github.com/DataJew/PyBer_Analysis/blob/master/PyBer_Challenge.ipynb)
 
 ### Deliverable 2: A multiple-line chart of total fares for each city type
 ### Deliverable Requirements:
@@ -33,7 +33,7 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 4. A DataFrame was created using the `resample()` function in weekly bins and shows the sum of the fares for each week.
 5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder. 
 
-[`Deleveriable 2 Results`](https://github.com/DataJew/PyBer_Analysis/blob/master/PyBer_Challenge.ipynb). 
+[`Deleveriable 2 Results`](https://github.com/DataJew/PyBer_Analysis/blob/master/PyBer_Challenge.ipynb) 
 
 ## Deliverable 3: A written report for the PyBer Analysis
 ### The analysis should contain the following:
@@ -52,12 +52,15 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
     > * The Urban fares start with an average of $1,800 with a consistent increase around 2,300. 
     
     > The PyBer summary DataFrame, 
+    > ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PyBerSummarydf.png) 
    
 
      > A multiple-line chart of total fares for each city type,
+     > ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PyBer_fare_summary.png) 
     
 
-     > PyBer Ride-Sharing Data (2019), 
+     > PyBer Ride-Sharing Data (2019),
+     > ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PyBerRide-SharingData(2019).png)  
       
 
 3. **Summary** 
@@ -66,14 +69,17 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
     > **1)** From our analysis, we can predict that there are good opportunities to expand the business in rural and suburban cities, including hiring drivers to operate and explode business in rural and suburban cities.
 
     > % of Total Drivers by City Type,
+    > ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/TotalDriversbyCityTypePieChart.png) 
   
     
     > **2)** The Urban cities fare is the highest and consistent, giving us great and new business opportunities to expand rides.  
 
     > % of Total Fares by City Type, 
+    > ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PercentageofFaresbyCityType.png) 
 
     
     > **3)** The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares never intersect.  Knowing that all fares never intersect, we can expand fares and increase business financial income to the company without affecting our rate.
 
      > Total Fare by City Type,
+     > ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PyBer_fare_summary.png) 
    

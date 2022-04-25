@@ -51,8 +51,8 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
     > * The Rural fares started at around $200, the analysis shows fares increase and dropped till the end of April.  
     > * The Urban fares start with an average of $1,800 with a consistent increase around 2,300. 
     
-    > The PyBer summary DataFrame, 
-    ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PyBerSummarydf.png) 
+     > The PyBer summary DataFrame, 
+     ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PyBerSummarydf.png) 
    
 
      > A multiple-line chart of total fares for each city type,
@@ -68,14 +68,14 @@ PyBer CEO has given you and your manager a brand-new assignment. Using your Pyth
 
     > **1)** From our analysis, we can predict that there are good opportunities to expand the business in rural and suburban cities, including hiring drivers to operate and explode business in rural and suburban cities.
 
-    > % of Total Drivers by City Type,
-    ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/TotalDriversbyCityTypePieChart.png) 
+     > % of Total Drivers by City Type,
+     ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/TotalDriversbyCityTypePieChart.png) 
   
     
     > **2)** The Urban cities fare is the highest and consistent, giving us great and new business opportunities to expand rides.  
 
-    > % of Total Fares by City Type, 
-    ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PercentageofFaresbyCityType.png) 
+     > % of Total Fares by City Type, 
+     ![name-of-you-image](https://github.com/DataJew/PyBer_Analysis/blob/master/analysis/images/PercentageofFaresbyCityType.png) 
 
     
     > **3)** The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares never intersect.  Knowing that all fares never intersect, we can expand fares and increase business financial income to the company without affecting our rate.
